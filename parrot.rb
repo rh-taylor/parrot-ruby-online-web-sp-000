@@ -2,6 +2,6 @@
 # returns the phrase
 
 #parrot
-def parrot(string)
+def parrot(string, )
   
 end
